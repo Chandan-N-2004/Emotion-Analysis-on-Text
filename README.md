@@ -69,3 +69,8 @@ Acknowledgements 🙏
 HuggingFace Transformers: For providing the pre-trained emotion model.
 
 Streamlit: For making it easy to build and deploy interactive data apps.
+
+
+You can practically check out the project here which is a deployed version .
+
+https://emotionanalyisontext-fmqftbvhq8fnksxou3jkks.streamlit.app/ 
